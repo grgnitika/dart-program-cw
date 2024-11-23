@@ -11,5 +11,5 @@ void main() {
   double t = 3; //time
 
   double interest = simpleint(principal: p, rate: r, time: t);
-  print("The simple interest is: \$${interest}"); //string interpolation
+  print("Simple Interest: \$${interest}"); //string interpolation
 }
