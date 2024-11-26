@@ -1,0 +1,10 @@
+name: dart_program_cw  
+description: A simple Dart program file
+version: 1.0.0
+
+environment:
+  sdk: "^3.5.0"  
+
+dependencies:
+  dartz: ^0.10.1
+
